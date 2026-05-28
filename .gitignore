@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+dist/
+build/
+.vscode/
+.idea/
+*.log
+parcel-cache/
+/.cache
+*.tgz
+# Optional lockfiles
+# package-lock.json

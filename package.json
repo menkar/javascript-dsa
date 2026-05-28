@@ -1,0 +1,28 @@
+{
+  "name": "javascript-dsa",
+  "version": "1.0.0",
+  "description": "Swapnil Menkar - JS DSA",
+  "homepage": "https://github.com/menkar/javascript-dsa#readme",
+  "bugs": {
+    "url": "https://github.com/menkar/javascript-dsa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menkar/javascript-dsa.git"
+  },
+  "license": "ISC",
+  "author": "Swapnil Menkar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev:fib": "node src/basic/fibonacci.js",
+    "dev:fact": "node src/basic/factorial.js",
+    "dev:prime": "node src/basic/prime.js",
+    "dev:pow": "node src/basic/power-of-two.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
