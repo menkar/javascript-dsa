@@ -22,7 +22,10 @@
     "dev:prime": "node src/basic/prime.js",
     "dev:pow": "node src/basic/power-of-two.js",
     "dev:recFib": "node src/recursion/fibonacci.js",
-    "dev:recFact": "node src/recursion/factorial.js"
+    "dev:recFact": "node src/recursion/factorial.js",
+    "dev:linSearch": "node src/searchAlgorithms/linear-search.js",
+    "dev:binSearch": "node src/searchAlgorithms/binary-search.js",
+    "dev:recBinSearch": "node src/searchAlgorithms/recursive-binary-search.js"
   },
   "dependencies": {
     "express": "^5.2.1"
