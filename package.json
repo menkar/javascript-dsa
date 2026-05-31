@@ -25,7 +25,12 @@
     "dev:recFact": "node src/recursion/factorial.js",
     "dev:linSearch": "node src/searchAlgorithms/linear-search.js",
     "dev:binSearch": "node src/searchAlgorithms/binary-search.js",
-    "dev:recBinSearch": "node src/searchAlgorithms/recursive-binary-search.js"
+    "dev:recBinSearch": "node src/searchAlgorithms/recursive-binary-search.js",
+    "dev:bsort": "node src/sortAlgorithms/bubble-sort.js",
+    "dev:isort": "node src/sortAlgorithms/insertion-sort.js",
+    "dev:qsort": "node src/sortAlgorithms/quick-sort.js",
+    "dev:msort": "node src/sortAlgorithms/merge-sort.js"
+
   },
   "dependencies": {
     "express": "^5.2.1"
