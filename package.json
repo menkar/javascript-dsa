@@ -29,7 +29,10 @@
     "dev:bsort": "node src/sortAlgorithms/bubble-sort.js",
     "dev:isort": "node src/sortAlgorithms/insertion-sort.js",
     "dev:qsort": "node src/sortAlgorithms/quick-sort.js",
-    "dev:msort": "node src/sortAlgorithms/merge-sort.js"
+    "dev:msort": "node src/sortAlgorithms/merge-sort.js",
+    "dev:cartProd": "node src/misc/cartesian-product.js",
+    "dev:climbStair": "node src/misc/climbing-staircase.js",
+    "dev:tow": "node src/misc/tower-of-hanoi.js"
 
   },
   "dependencies": {
